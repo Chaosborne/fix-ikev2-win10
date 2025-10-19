@@ -1,5 +1,8 @@
 # VPN IKEv2 Fix for Windows 10
 
+### « Remote server not responding ... »
+
+#### ⚠️ This is not a solution to the underlying problem. It's a quick workaround to fix the connection when it stops working.
 ## 🚀 Quick Fix
 
 **Run:**
