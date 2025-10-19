@@ -3,7 +3,7 @@
 ## 🚀 Quick Fix
 
 **Run:**
-1. `Test-4-Renew-IP.bat` ⭐ - renew IP addresses (often solves the problem!)
+1. `Renew-IP.bat` ⭐ - renew IP addresses (often solves the problem!)
 2. If that doesn't help: `Fix-VPN-Quick.bat` - complete VPN fix
 4. Connect to VPN through system tray
 
@@ -11,11 +11,11 @@
 
 If quick fix doesn't help, test files **in order**:
 
-1. **1-Renew-IP.bat** ⭐ - renew IP addresses (often solves the problem!)
-2. **2-Enable-Adapters.bat** - enable adapters
-5. **3-Restart-Adapters.bat** - restart adapters
-3. **4-Start-RemoteAccess.bat** - start RemoteAccess
-4. **5-Clear-IPsec-SA.bat** - clear IPsec SA
+1. **Renew-IP.bat** ⭐ - renew IP addresses (often solves the problem!)
+2. **Enable-Adapters.bat** - enable adapters
+5. **Restart-Adapters.bat** - restart adapters
+3. **Start-RemoteAccess.bat** - start RemoteAccess
+4. **Clear-IPsec-SA.bat** - clear IPsec SA
 
 **After each file** try to connect to VPN.
 
@@ -26,11 +26,11 @@ If quick fix doesn't help, test files **in order**:
 - **Smart-VPN-Fix.bat** - automatically remembers successful methods and tries them first
 
 ### Test files:
-- **1-Renew-IP.bat** - renew IP addresses
-- **2-Enable-Adapters.bat** - enable disabled network adapters
-- **3-Restart-Adapters.bat** - restart network adapters
-- **4-Start-RemoteAccess.bat** - start RemoteAccess service
-- **5-Clear-IPsec-SA.bat** - clear IPsec Security Associations
+- **Renew-IP.bat** - renew IP addresses
+- **Enable-Adapters.bat** - enable disabled network adapters
+- **Restart-Adapters.bat** - restart network adapters
+- **Start-RemoteAccess.bat** - start RemoteAccess service
+- **Clear-IPsec-SA.bat** - clear IPsec Security Associations
 
 ### Additional:
 - **Network-Recovery.bat** - network recovery for serious problems
