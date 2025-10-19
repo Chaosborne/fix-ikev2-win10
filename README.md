@@ -9,15 +9,13 @@
 
 ## 🔬 Step-by-step Testing
 
-If quick fix doesn't help, test files **in order**:
+If quick fix doesn't help, test files **in order** (**after each file** try to connect to VPN):
 
 1. **Renew-IP.bat** ⭐ - renew IP addresses (often solves the problem!)
 2. **Enable-Adapters.bat**
 5. **Restart-Adapters.bat**
 3. **Start-RemoteAccess.bat**
 4. **Clear-IPsec-SA.bat**
-
-**After each file** try to connect to VPN.
 
 ## 📁 File Description
 
